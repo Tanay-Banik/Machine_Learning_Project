@@ -1,2 +1,4 @@
 # Machine_Learning_Project
-This is my Machine learning Project Kit. Author - Tanay Banik
+This is my Machine learning Project Kit. 
+<br>
+Author - Tanay Banik
